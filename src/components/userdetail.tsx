@@ -51,7 +51,7 @@ export default function UserDetail() {
     </div>
      
       
-      <div className='flex justify-end pt-4'>
+      <div className='flex justify-center pt-4'>
       <Delete/>
       </div>
       </div>
